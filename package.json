@@ -1,0 +1,20 @@
+{ 
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "rabi_numberguessing-game",
+  "version": "2.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./numberguessing2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This is a cli based numbers guessing number"
+}
